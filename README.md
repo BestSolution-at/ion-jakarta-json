@@ -1,6 +1,6 @@
 # ion-jakarta-json
 
-Ecode/Decode amazon ion as jakarta-json instances
+Ecode/Decode [Amazon ion](https://amazon-ion.github.io/ion-docs/) as jakarta-json instances
 
 ## Add dependency
 
